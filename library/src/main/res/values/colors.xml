@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Name this file “colors.xml” -->
-    <!-- Then place it in your project's “res/values/” folder. -->
     <!-- Created by Marcel Ulbrich -->
-    <!-- google.com/+MarcelUlbrich -->
 
     <color name="red_050">#fde0dc</color> <!-- Use with black text -->
     <color name="red_100">#f9bdbb</color> <!-- Use with black text -->
