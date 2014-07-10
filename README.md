@@ -37,8 +37,8 @@ It does not uses any library.
 Developed By
 ------------
 
-Emre Akturk
-Marcel Ulbrich
+* Emre Akturk
+* Marcel Ulbrich
 
 License
 --------
