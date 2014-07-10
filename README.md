@@ -12,7 +12,7 @@ TODO
 Setup
 -----
 
-Download [```lcolorpallette@1.0.aar```](https://github.com/emreaktrk/ContextualView/blob/master/lcolorpallette@1.0.aar?raw=true) and put it to libs folder.
+Download [```lcolorpallette@1.0.aar```](https://github.com/emreaktrk/LColorPallette/raw/master/lcolorpallette%401.0.aar) and put it to libs folder.
 Add these lines to ```build.gradle``` in app module.
 
 ```
