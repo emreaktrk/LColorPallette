@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    compile(name:'contextualview@1.0.aar', ext:'aar')
+    compile(name:'lcolorpallette@1.0.aar', ext:'aar')
 }
 ```
 
